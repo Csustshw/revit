@@ -1,0 +1,26 @@
+[
+  {
+    "id": "A-100",
+    "type": "IfcPipeSegment",
+    "system": "給水",
+    "level": "Level 1",
+    "bbox": [0.0, 0.0, 0.0, 1.0, 0.2, 0.2],
+    "metadata": {"diameter": 100}
+  },
+  {
+    "id": "B-200",
+    "type": "IfcDuctSegment",
+    "system": "通風",
+    "level": "Level 1",
+    "bbox": [0.8, 0.1, 0.0, 2.0, 0.5, 0.3],
+    "metadata": {"size": "300x200"}
+  },
+  {
+    "id": "C-300",
+    "type": "IfcCableCarrierSegment",
+    "system": "弱電",
+    "level": "Level 1",
+    "bbox": [5.0, 5.0, 0.0, 6.0, 5.2, 0.2],
+    "metadata": {"width": 100}
+  }
+]
