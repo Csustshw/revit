@@ -1,0 +1,6 @@
+{
+  "project": "Demo Project",
+  "clashes": [
+    {"a": {"id": "A-100", "type": "IfcPipeSegment", "system": "給水", "level": "Level 1"}, "b": {"id": "B-200", "type": "IfcDuctSegment", "system": "通風", "level": "Level 1"}, "a_bbox": [0.0,0.0,0.0,1.0,0.2,0.2], "b_bbox": [0.8,0.1,0.0,2.0,0.5,0.3], "severity": "possible"}
+  ]
+}
